@@ -11,4 +11,4 @@ hello zouyuan! hello git!
 hello zouyuan! hello git!
 hello zouyuan! hello git!
 hello zouyuan! hello git!
-hello zouyuan! hello git!
+hello zouyuan! hello git! hot-fix test
